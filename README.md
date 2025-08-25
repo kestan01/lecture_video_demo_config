@@ -1,2 +1,10 @@
-# lecture_video_demo_config
-This is the repo I created following the lecture video
+# lecture demo
+I created this following the lecture demo
+
+## Additional comments
+
+This is really cool
+
+Item 1 
+Item 2
+Item 3
